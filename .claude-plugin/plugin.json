@@ -1,0 +1,13 @@
+{
+  "name": "krishna-tools",
+  "displayName": "Krishna's Tools",
+  "version": "1.0.0",
+  "description": "157 skills and 17 subagents synced from ~/.claude — design, frontend, backend/infra, security, testing, content, and the gstack workflow suite.",
+  "author": {
+    "name": "Krishna",
+    "email": "sbads133@gmail.com"
+  },
+  "repository": "https://github.com/krishna1901/claude-config",
+  "skills": ["./skills/"],
+  "agents": ["./agents/"]
+}

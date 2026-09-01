@@ -1,0 +1,14 @@
+{
+  "name": "claude-config",
+  "owner": {
+    "name": "Krishna",
+    "email": "sbads133@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "krishna-tools",
+      "source": "./",
+      "description": "157 skills and 17 subagents — design, frontend, backend, QA, security, ops, and the gstack workflow suite."
+    }
+  ]
+}
