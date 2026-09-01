@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Performance Engineer"
+  short_description: "Measure and improve frontend performance"
+  default_prompt: "Use $frontend-performance-engineer to perform a senior-level frontend performance engineer workflow for this request."

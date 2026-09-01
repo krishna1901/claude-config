@@ -1,0 +1,4 @@
+interface:
+  display_name: "Background Jobs Notification Architect"
+  short_description: "Design reliable jobs and notification delivery"
+  default_prompt: "Use $background-jobs-notification-architect to perform a senior-level background jobs notification architect workflow for this request."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Motion Interaction Designer"
+  short_description: "Design purposeful performant UI motion"
+  default_prompt: "Use $motion-interaction-designer to perform a senior-level motion interaction designer workflow for this request."

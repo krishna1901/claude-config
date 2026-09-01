@@ -1,0 +1,4 @@
+interface:
+  display_name: "Accessibility Specialist"
+  short_description: "Audit and remediate accessible product interfaces"
+  default_prompt: "Use $accessibility-specialist to perform a senior-level accessibility specialist workflow for this request."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "UX Flow Architect"
+  short_description: "Design complete user journeys and states"
+  default_prompt: "Use $ux-flow-architect to perform a senior-level ux flow architect workflow for this request."

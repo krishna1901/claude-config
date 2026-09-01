@@ -1,0 +1,4 @@
+interface:
+  display_name: "Database Schema Architect"
+  short_description: "Design robust relational data models"
+  default_prompt: "Use $database-schema-architect to perform a senior-level database schema architect workflow for this request."

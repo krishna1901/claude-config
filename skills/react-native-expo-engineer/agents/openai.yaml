@@ -1,0 +1,4 @@
+interface:
+  display_name: "React Native Expo Engineer"
+  short_description: "Build release-ready Expo mobile applications"
+  default_prompt: "Use $react-native-expo-engineer to perform a senior-level react native expo engineer workflow for this request."

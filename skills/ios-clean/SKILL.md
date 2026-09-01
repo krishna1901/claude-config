@@ -1,0 +1,1 @@
+/Users/krishna/.claude/skills/gstack/ios-clean/SKILL.md

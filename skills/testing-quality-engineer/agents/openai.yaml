@@ -1,0 +1,4 @@
+interface:
+  display_name: "Testing Quality Engineer"
+  short_description: "Build risk-focused automated test strategies"
+  default_prompt: "Use $testing-quality-engineer to perform a senior-level testing quality engineer workflow for this request."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual QA Specialist"
+  short_description: "Compare rendered interfaces and fix discrepancies"
+  default_prompt: "Use $visual-qa-specialist to perform a senior-level visual qa specialist workflow for this request."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deployment DevOps Architect"
+  short_description: "Design safe observable deployment systems"
+  default_prompt: "Use $deployment-devops-architect to perform a senior-level deployment devops architect workflow for this request."

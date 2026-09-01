@@ -1,0 +1,4 @@
+interface:
+  display_name: "UX Research Strategist"
+  short_description: "Plan rigorous and pragmatic UX research"
+  default_prompt: "Use $ux-research-strategist to perform a senior-level ux research strategist workflow for this request."

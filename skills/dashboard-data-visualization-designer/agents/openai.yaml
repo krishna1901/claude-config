@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dashboard Data Visualization Designer"
+  short_description: "Design decision-oriented dashboards and charts"
+  default_prompt: "Use $dashboard-data-visualization-designer to perform a senior-level dashboard data visualization designer workflow for this request."

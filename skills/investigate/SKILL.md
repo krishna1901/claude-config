@@ -1,0 +1,1 @@
+/Users/krishna/.claude/skills/gstack/investigate/SKILL.md

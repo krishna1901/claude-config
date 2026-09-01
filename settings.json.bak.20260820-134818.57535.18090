@@ -1,0 +1,35 @@
+{
+  "env": {
+    "CLAUDE_CODE_MAX_OUTPUT_TOKENS": "8000",
+    "DISABLE_NON_ESSENTIAL_MODEL_CALLS": "1",
+    "DISABLE_COST_WARNINGS": "1"
+  },
+  "model": "opus[1m]",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/krishna/.claude/skills/gstack/bin/gstack-session-update"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "_gstack_source": "gstack-timeline-stop",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/krishna/.claude/skills/gstack/hosts/claude/hooks/timeline-stop-hook",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  },
+  "effortLevel": "xhigh",
+  "skipWorkflowUsageWarning": true,
+  "agentPushNotifEnabled": true
+}

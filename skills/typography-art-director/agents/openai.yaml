@@ -1,0 +1,4 @@
+interface:
+  display_name: "Typography Art Director"
+  short_description: "Create professional responsive type systems"
+  default_prompt: "Use $typography-art-director to perform a senior-level typography art director workflow for this request."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Authentication Security Engineer"
+  short_description: "Secure identity authorization and sensitive flows"
+  default_prompt: "Use $authentication-security-engineer to perform a senior-level authentication security engineer workflow for this request."

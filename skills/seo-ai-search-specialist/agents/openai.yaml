@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO and AI Search Specialist"
+  short_description: "Optimize products for search and AI discovery"
+  default_prompt: "Use $seo-ai-search-specialist to perform a senior-level seo and ai search specialist workflow for this request."

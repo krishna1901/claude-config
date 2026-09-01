@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design System Architect"
+  short_description: "Build scalable tokens and component systems"
+  default_prompt: "Use $design-system-architect to perform a senior-level design system architect workflow for this request."

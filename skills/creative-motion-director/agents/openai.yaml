@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creative Motion Director"
+  short_description: "Direct motion graphics and promotional sequences"
+  default_prompt: "Use $creative-motion-director to perform a senior-level creative motion director workflow for this request."

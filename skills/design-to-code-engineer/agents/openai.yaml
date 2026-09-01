@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design to Code Engineer"
+  short_description: "Implement visual references accurately in code"
+  default_prompt: "Use $design-to-code-engineer to perform a senior-level design to code engineer workflow for this request."

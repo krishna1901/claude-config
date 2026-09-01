@@ -1,0 +1,4 @@
+interface:
+  display_name: "Responsive Interface Engineer"
+  short_description: "Engineer interfaces for real viewport diversity"
+  default_prompt: "Use $responsive-interface-engineer to perform a senior-level responsive interface engineer workflow for this request."

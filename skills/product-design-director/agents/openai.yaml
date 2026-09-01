@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Design Director"
+  short_description: "Turn product ideas into design-ready briefs"
+  default_prompt: "Use $product-design-director to perform a senior-level product design director workflow for this request."

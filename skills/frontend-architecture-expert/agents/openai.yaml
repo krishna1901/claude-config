@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Architecture Expert"
+  short_description: "Design maintainable frontend system boundaries"
+  default_prompt: "Use $frontend-architecture-expert to perform a senior-level frontend architecture expert workflow for this request."

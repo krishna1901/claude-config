@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fullstack System Architect"
+  short_description: "Design complete secure scalable systems"
+  default_prompt: "Use $fullstack-system-architect to perform a senior-level fullstack system architect workflow for this request."

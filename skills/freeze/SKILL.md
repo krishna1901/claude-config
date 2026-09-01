@@ -1,0 +1,1 @@
+/Users/krishna/.claude/skills/gstack/freeze/SKILL.md

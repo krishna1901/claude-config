@@ -1,0 +1,4 @@
+interface:
+  display_name: "Supabase Architecture Expert"
+  short_description: "Build secure production Supabase systems"
+  default_prompt: "Use $supabase-architecture-expert to perform a senior-level supabase architecture expert workflow for this request."

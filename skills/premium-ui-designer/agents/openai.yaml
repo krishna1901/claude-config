@@ -1,0 +1,4 @@
+interface:
+  display_name: "Premium UI Designer"
+  short_description: "Design distinctive production-ready interfaces"
+  default_prompt: "Use $premium-ui-designer to perform a senior-level premium ui designer workflow for this request."

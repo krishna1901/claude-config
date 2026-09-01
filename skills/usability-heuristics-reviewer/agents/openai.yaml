@@ -1,0 +1,4 @@
+interface:
+  display_name: "Usability Heuristics Reviewer"
+  short_description: "Audit usability with evidence and severity"
+  default_prompt: "Use $usability-heuristics-reviewer to perform a senior-level usability heuristics reviewer workflow for this request."

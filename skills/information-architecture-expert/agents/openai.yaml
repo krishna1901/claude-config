@@ -1,0 +1,4 @@
+interface:
+  display_name: "Information Architecture Expert"
+  short_description: "Structure navigation, routes, and content"
+  default_prompt: "Use $information-architecture-expert to perform a senior-level information architecture expert workflow for this request."

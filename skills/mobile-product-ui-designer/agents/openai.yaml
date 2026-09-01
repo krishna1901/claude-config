@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile Product UI Designer"
+  short_description: "Design polished native-feeling mobile products"
+  default_prompt: "Use $mobile-product-ui-designer to perform a senior-level mobile product ui designer workflow for this request."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "API Contract Designer"
+  short_description: "Design stable testable application contracts"
+  default_prompt: "Use $api-contract-designer to perform a senior-level api contract designer workflow for this request."

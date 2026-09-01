@@ -1,0 +1,4 @@
+interface:
+  display_name: "Production Readiness Reviewer"
+  short_description: "Run a rigorous final release gate"
+  default_prompt: "Use $production-readiness-reviewer to perform a senior-level production readiness reviewer workflow for this request."

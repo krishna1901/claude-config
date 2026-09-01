@@ -1,0 +1,29 @@
+# Runtime / ephemeral — regenerated automatically, not config
+/session-env/
+/sessions/
+/shell-snapshots/
+/uploads/
+/tasks/
+/projects/
+/telemetry/
+/ide/
+/.last-cleanup
+
+# Other-project work product — plan-mode outputs, not skill/agent config
+/plans/
+
+# Reproducible from elsewhere — not this machine's source of truth.
+# gstack self-manages via its own remote: github.com/garrytan/gstack
+# marketplaces/ re-fetches from known_marketplaces.json on any machine
+/skills/gstack/
+/plugins/marketplaces/
+
+# My own manual pre-git backups from this session — git supersedes them
+/backups/
+
+# Secrets / credentials — never committed
+*.token
+*credentials*
+.env
+.env.*
+oauth*.json
